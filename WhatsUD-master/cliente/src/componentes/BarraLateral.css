@@ -1,0 +1,6 @@
+.barra_lateral{
+    display: flex;
+    flex-direction: column;
+    flex: 0.2;
+    background-color: rgb(211, 211, 211);
+}
